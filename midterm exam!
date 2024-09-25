@@ -1,0 +1,4 @@
+write a program that print all even numbers from 1 to 100 using a for loop.
+
+or n in range (1,100):
+    print ("number",n)
